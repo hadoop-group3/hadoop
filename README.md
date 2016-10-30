@@ -4,7 +4,7 @@
 <OL>
 <li>Bert Taube:    408-307-4424  Bert.Taube@sbcglobal.net</li>
 <li>Siming Meng:   408-940-6682  smmeng@gmail.com</li>
-3. Saroj Kumar:   510-366-3936  saroj_iit@yahoo.com</li>
+<li>Saroj Kumar:   510-366-3936  saroj_iit@yahoo.com</li>
 <li>Poc Hsu:       310-437-3860  poc7667@gmail.com  http://pochsu.me</li>
 <li>Abhinav Swami: 716-320-7183  abhinav.swami21@gmail.com</li>
 </ol>
