@@ -17,4 +17,4 @@ Actually on Windows, you can use Tortoise SVN as the client, https://tortoisesvn
 
 In addition to above tradditional clients, you can use browser to view the files in repositories since only paid account can be private!
 
-My repository is https://github.com/hadoop-group3/siming.meng.
+My repository is https://github.com/hadoop-group3/siming.meng.git
